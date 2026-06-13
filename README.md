@@ -31,3 +31,8 @@ Amateur Astronomy: Enthusiasts can use the tracker to predict when satellites or
 Data Literacy Training: For aspiring developers, this project acts as a perfect case study in API consumption. It demonstrates the entire lifecycle of software development: fetching raw data, parsing it, error handling, and finally visualizing it for the end user.
 
 Situational Awareness: By tracking live telemetry, users gain a newfound appreciation for the constant, silent activity occurring just above our atmosphere.
+
+"OUTPUT" : 
+
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/0b130f0d-391b-4f44-b9b3-df92dba85c88" />
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/ace862ce-211f-431e-b68f-46b0658ea299" />
